@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-family: ;
+    font-size: 25px;
+
+}
+
+h1{
+    font-size: 75px;
+    font-weight: 900;
+
+}
+
+#word{
+    background-color: transparent;
+    font-size: 35px;
+    font-family: consolas;
+
+}
+
+#click{
+    background-color: transparent;
+    font-size: 35px;
+    font-family: consolas;
+}
